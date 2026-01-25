@@ -32,5 +32,21 @@ Alerts were either closed as false positives or escalated as true positives with
 ### SOC Perspective
 This lab reinforced the importance of accurate alert triage to reduce alert fatigue and ensure timely escalation of genuine threats.
 
+## Lab 3: SOC L1 Alert Reporting (TryHackMe)
+
+### Scenario
+SOC alert requiring investigation and formal reporting after triage.
+
+### Evidence
+Relevant logs, indicators, and contextual information reviewed during investigation.
+
+### Analysis
+Findings were summarized clearly to support the alert decision.
+
+### Decision and Action
+Alert was classified appropriately and either escalated or closed with justification.
+
+### SOC Perspective
+Clear and concise reporting ensures effective communication between SOC tiers and stakeholders.
 
 
